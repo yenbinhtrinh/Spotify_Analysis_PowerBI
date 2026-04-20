@@ -8,17 +8,6 @@ This Power BI project provides a comprehensive analysis of Spotify’s "Top 50" 
 
 * **Multi-Layered Performance Tracking:** A specialized three-page report structure (Overview, Artist Insights, and Song Deep-Dives) to facilitate both macro-trend analysis and granular data exploration.
 * **Content & Distribution Profiling:** Detailed breakdown of **Explicit vs. Non-Explicit** content shares and **Album Type** distributions (Single, Album, Compilation).
-  
-* **Advanced DAX Calculations:**
-<img width="1093" height="243" alt="image" src="https://github.com/user-attachments/assets/06113c4d-e32e-497c-99b2-688c192d48fb" />
-
- * **Time-Intelligence Metrics:** Tracking average popularity and song frequency across months and years to identify seasonal trends.
-    * 
-  <img width="904" height="247" alt="image" src="https://github.com/user-attachments/assets/58da7d30-a416-4c84-b523-a5f08c785f87" />
-
- * **Artist Consistency Scoring:** Measures to identify artists with sustained high-ranking positions and "Hit" density.
-  
-<img width="1031" height="331" alt="image" src="https://github.com/user-attachments/assets/5cb59407-15db-4162-9a65-62eaf6192db5" />
 
 * **Interactive UX/UI:**
     * **Drill-Down Navigation:** Seamless transitions from high-level KPIs to specific artist and track performance.
@@ -40,11 +29,11 @@ Spotify stakeholders—including playlist curators and marketing managers—requ
 
 * **Executive Overview:** Instant visibility into **Total Songs, Distinct Artists, Average Popularity,** and **Average Track Duration**.
   
- <img width="1181" height="644" alt="image" src="https://github.com/user-attachments/assets/7677f439-37a7-45fe-9a3a-35939354a5bf" />
+ <img width="1181" height="644" alt="image" src="Images/page1.png" />
 
 * **Artist Analytics:** Identification of top-tier talent based on popularity scores and the ability to drill down into an artist's specific release history and chart positions.
   
- <img width="1220" height="691" alt="image" src="https://github.com/user-attachments/assets/98c9d4c7-37f7-4de5-81b9-31545042b686" />
+ <img width="1220" height="691" alt="image" src="Images/page2.png" />
 
 * **Trend Analysis:** Monthly and yearly views of average popularity to assist in timing marketing campaigns or new releases.
 
